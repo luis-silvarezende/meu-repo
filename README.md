@@ -1,8 +1,8 @@
 # Meu repositório
 Este é o meu **primeiro repositório** no *Github*.
 
-Eis um trecho de código em Jav:
-`System.out.println("Olá mundo!")`
+Eis um trecho de código em Python:
+`print("Olá mundo!")`
 
 Como diria o filósofo:
 > Comamos e bebamos, porque amanhã morreremos.
