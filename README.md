@@ -1,7 +1,7 @@
 # Meu repositório
 Este é o meu **primeiro repositório** no *Github*.
 
-Eis um trecho de código em Java:
+Eis um trecho de código em Jav:
 `System.out.println("Olá mundo!")`
 
 Como diria o filósofo:
